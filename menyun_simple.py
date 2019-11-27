@@ -10,7 +10,12 @@ ws1 = wb.active
 ws1.title = "电影top250"
 
 DOWNLOAD_URL = 'http://www.my2852.com/wgwx/dpxs/001.htm'
+DOWNLOAD_URL = 'http://www.my2852.com/gdwx/sgyy/001.htm'
+DOWNLOAD_URL = 'http://www.my2852.com/gdwx/xs/xus/shhz/01.htm'
+DOWNLOAD_URL = 'http://www.my2852.com/gdwx/shz/001.htm'
 DOWNLOAD_URL1 = 'http://www.my2852.com/wgwx/dpxs/'
+DOWNLOAD_URL1 = 'http://www.my2852.com/gdwx/sgyy/'
+DOWNLOAD_URL1 = 'http://www.my2852.com/gdwx/shz/'
 
 
 def download_page(url):
